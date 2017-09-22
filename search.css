@@ -1,0 +1,16 @@
+ 
+#search{
+	height:40px;
+	width:170px;
+	border-radius:1px;
+	border:2px solid orange;
+}
+
+#submit{
+	height:40px;
+	border-radius:1px;
+	border:2px solid orange;
+	margin:0 0 0 -4;
+	background-color:orange;
+	
+}

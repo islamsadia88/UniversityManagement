@@ -1,0 +1,134 @@
+#xa{
+	margin:90 0 0 450;
+	height:200px;
+	width:400px;
+	background-color:#c0c0c0;
+	border-radius:5px;
+}
+#pa1{
+	 
+	font-size:30px;
+	margin:20 0 0 370;
+	color:orange;
+}
+
+#navBar{
+	margin:0 0 0 40;
+	padding:0 0 0 0;
+}
+
+#navBar ul{
+	margin:0 0 0 0;
+	padding:0  ;
+	line-height:30px;
+}
+#navBar li{
+	margin:0 0 0 0  ;
+	padding:0 0 0 0;
+	list-style:none;
+	float:left;
+	position:relative;
+	background:#999;
+	 border-radius: 25px;
+}
+a{
+	text-decoration:none;
+	color:white;
+	font-family:"Comic Sans Ms",cursive;
+}
+#navBar ul li a{
+	 text-align:center;
+	 font-family:"Comic Sans Ms",cursive;
+	 text-decoration:none;
+	 height:30px;
+	 width:150px;
+	 display:block;
+	 color:#FFF;
+	 border:1px solid #000;
+	  border-radius: 25px;
+}
+#navBar ul ul{
+	position:absolute;
+	visibility:hidden;
+	top:30px;
+	 border-radius: 25px;
+}
+#navBar ul li:hover  ul{
+	visibility:visible;
+	 border-radius: 25px;
+}
+#navBar li:hover{
+	background:#09F;
+	 border-radius: 25px;
+}
+#navBar ul li:hover ul li a:hover{
+	background:#ccc;
+	color:blue;
+	 border-radius: 25px;
+}
+#navBar  a:hover{
+	color:#000;
+	 border-radius: 25px;
+}
+
+
+
+
+
+#navBars{
+	margin:10 0 0 40;
+	padding:10 0 0 0;
+}
+#navBars ul{
+	margin:10 0 0 0;
+	padding:10 0 0 0 ;
+	line-height:30px;
+}
+#navBars li{
+	margin:85 0 0 85  ;
+	padding:0 0 0 0;
+	list-style:none;
+	float:left;
+	position:relative;
+	background:#999;
+	 border-radius: 25px;
+}
+a{
+	text-decoration:none;
+	color:white;
+	font-family:"Comic Sans Ms",cursive;
+}
+#navBars ul li a{
+	 text-align:center;
+	 font-family:"Comic Sans Ms",cursive;
+	 text-decoration:none;
+	 height:30px;
+	 width:150px;
+	 display:block;
+	 color:#FFF;
+	 border:1px solid #000;
+	  border-radius: 25px;
+}
+#navBars ul ul{
+	position:absolute;
+	visibility:hidden;
+	top:30px;
+	 border-radius: 25px;
+}
+#navBars ul li:hover  ul{
+	visibility:visible;
+	 border-radius: 25px;
+}
+#navBars li:hover{
+	background:#09F;
+	 border-radius: 25px;
+}
+#navBars ul li:hover ul li a:hover{
+	background:#ccc;
+	color:blue;
+	 border-radius: 25px;
+}
+#navBars  a:hover{
+	color:#000;
+	 border-radius: 25px;
+}

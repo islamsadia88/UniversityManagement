@@ -1,0 +1,40 @@
+a{
+	text-decoration:none;
+	color:orange;
+ 
+}
+ 
+#xa{
+	margin:90 0 0 450;
+	height:200px;
+	width:400px;
+	background-color:#c0c0c0;
+	border-radius:5px;
+}
+#pa1{
+ 
+	font-size:30px;
+	margin:20 0 0 370;
+	color:orange;
+}
+
+#box3{
+	padding:10px 0 0 100px;
+	margin:0 0 0 0;
+}
+
+#search{
+	height:40px;
+	width:170px;
+	border-radius:1px;
+	border:2px solid orange;
+}
+
+#submit{
+	height:40px;
+	border-radius:1px;
+	border:2px solid orange;
+	margin:0 0 0 -4;
+	background-color:orange;
+	
+}
